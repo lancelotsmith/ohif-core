@@ -1,7 +1,9 @@
+
 Package.describe({
-    name: 'ohif:core',
-    summary: 'OHIF core components, helpers and UI functions',
-    version: '0.0.1'
+  summary: "OHIF core components, helpers and UI functions",
+  version: "0.0.1",
+  git: "https://github.com/lancelotsmith/ohif-core.git",
+  name: "lancelotsmith:ohif-core"
 });
 
 Package.onUse(function(api) {
